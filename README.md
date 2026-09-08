@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Manajain20/leet-journey/tree/master/0231-power-of-two) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Manajain20/leet-journey/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Manajain20/leet-journey/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2119-a-number-after-a-double-reversal](https://github.com/Manajain20/leet-journey/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/Manajain20/leet-journey/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Manajain20/leet-journey/tree/master/2413-smallest-even-multiple) |
 ## Number Theory
