@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Manajain20/leet-journey/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Manajain20/leet-journey/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Manajain20/leet-journey/tree/master/0326-power-of-three) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Manajain20/leet-journey/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Manajain20/leet-journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Manajain20/leet-journey/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -27,4 +28,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Manajain20/leet-journey/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Manajain20/leet-journey/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
